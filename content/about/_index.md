@@ -1,23 +1,27 @@
 ---
-title: "About Us"
-description: "The Academic Liaison. The Route to CAP 5.0."
+title: About Us
+description: The Academic Liaison. The Route to CAP 5.0.
 featured_image: ''
+
 ---
 Academic Liaison is part of NUS Students’ Computing Club.
 Feel free to email us any academic feedback and we will try our very best to assist you! 🙂
 
 # 20th Academic Liaison Committee
-![yiyuan](/images/yiyuan.jpg)
 
-Director: **LEE** Yiyuan
+### Director 
+
+![yiyuan](/images/yiyuan.jpg)
+**LEE** Yiyuan
 
 Email: [acad@nuscomputing.com](mailto:acad@nuscomputing.com)
 
 ---
 
-![gabriel](/images/gabriel.jpg)
+### Deputy Director
 
-Deputy Director: Gabriel **TAN**
+![gabriel](/images/gabriel.jpg)
+Gabriel **TAN**
 
 Email: [dy.acad@nuscomputing.com](mailto:dy.acad@nuscomputing.com)
 
